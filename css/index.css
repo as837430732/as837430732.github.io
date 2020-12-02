@@ -4093,9 +4093,6 @@ img {
 .katex-wrap {
   overflow: auto;
 }
-.katex-wrap::-webkit-scrollbar {
-  display: none;
-}
 .layout_post {
   margin: 0 auto;
   padding: 2rem 15px;
